@@ -1,0 +1,8 @@
+[package]
+name = "blockchin"
+version = "0.1.0"
+authors = ["Paul Severe <pjo2110@columbia.edu>"]
+
+[dependencies]
+image = "*"
+dump = "*"
